@@ -2,6 +2,9 @@
 	"firstName": "Lea",
 	"last_name": "Verou",
 	"hobby": [
-		"123"
+		"123",
+		"hobby1",
+		"hobby2",
+		"hobby3"
 	]
 }
